@@ -4,8 +4,7 @@
 ```
 git clone https://github.com/sarthak-g/AppointmentBooker.git
 ```
-
-## Step 2: go inside the folder
+## Step 2: Move into directory
 ```
 cd AppointmentBooker/
 ```
@@ -13,8 +12,7 @@ cd AppointmentBooker/
 ```
 npm install
 ```
-
-### Step 4: run app on local server
+### Step 4: Run app on local server
 ```
 npm run serve
 ```
