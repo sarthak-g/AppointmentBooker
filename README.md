@@ -1,24 +1,20 @@
-# vue-appointmentbooker
+# Appointment Booker
 
-## Project setup
+## Step 1: Clone the repository
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+git clone https://github.com/sarthak-g/AppointmentBooker.git
 ```
 
-### Compiles and minifies for production
+## Step 2: go inside the folder
 ```
-yarn build
+cd AppointmentBooker/
+```
+## Step 3: Install dependencies
+```
+npm install
 ```
 
-### Lints and fixes files
+### Step 4: run app on local server
 ```
-yarn lint
+npm run serve
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
